@@ -25,6 +25,8 @@
        
 ![](Images/genre_info_link.png)
 
+After preprocessing the dataframe we got was in the below format. The genre column is a list.
+
 ## Data Analysis and Visualisation
             Various analysis with the collected data were performed and they were visualised using matplotlib.
 ![](Images/frequency_10.png)
@@ -53,7 +55,7 @@ In the previous case we found the most popular genre of all time. But what if we
 popular genre in the timeframe 2012 - 2015. It was found that in recent years the popularity of hip hop
 has risen.
 
-![](Images/top_singers_in_a_period.png)
+![](Images/top_singers_period_1.png)
 
 Initially we found the popular singer of all time. What if we need to find the most popular singer for
 the timeframe of 2012 to 2015. Nicki Minaj had topped this list. But his name was not on the top 10 lists
