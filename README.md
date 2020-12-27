@@ -27,6 +27,8 @@
 
 After preprocessing the dataframe we got was in the below format. The genre column is a list.
 
+![](Images/preprocess_data.png)
+
 ## Data Analysis and Visualisation
             Various analysis with the collected data were performed and they were visualised using matplotlib.
 ![](Images/frequency_10.png)
